@@ -1,1 +1,1 @@
-Schedules for the PDX Soccer Fan iOS app
+Schedules and chants for the PDX Soccer Fan iOS app
