@@ -11,20 +11,16 @@
 ]
 },
 {
-"chantName": "Allez Allez",
-"chantLyrics": [
-"Allez Allez Alo (x2)",
-"We are the Rose City",
-"The mighty PTFC"
-]
-},
-{
 "chantName": "Bon Bon",
 "chantLyrics": [
-"Bon, bon, bon, bon sing wherever we go",
-"Bon, bon, bon, bon we are the Rose City-o",
-"Bon, bon, bon, bon the girls in red will lead us",
-"Bon, bon, bon, bon take off, you cannot beat us!"
+"Bon, bon, bon, bon", 
+"Sing wherever we go",
+"Bon, bon, bon, bon", 
+"We are the Rose City-o",
+"Bon, bon, bon, bon", 
+"The girls in red will lead us",
+"Bon, bon, bon, bon", 
+"Take off, you cannot beat us"
 ]
 },
 {
@@ -38,13 +34,12 @@
 ]
 },
 {
-"chantName": "Care Free",
+"chantName": "Carefree",
 "chantLyrics": [
 "Caaaaaaaaaaaaaaaaaaaaare-free!",
 "Wherever we may be *clap* *clap*",
 "We are the famous Rose City",
-"Soccer City USA",
-"Moving on to victory",
+"Soccer City USA, moving on to victory",
 "We are the famous Rose City!"
 ]
 },
@@ -65,7 +60,8 @@
 "We’re at your door(x2)",
 "",
 "We got the A team",
-"You got the B team, you better run (x4)"
+"You got the B team",
+"You better run"
 ]
 },
 {
@@ -123,6 +119,17 @@
 "Score another goal for the Rose City!"
 ]
 },
+  {
+"chantName": "Keep It Up",
+"chantLyrics": [
+"Whoa-oh-oh, whoa-oh-oh",
+"Whoa-oh-oh-oh-ohh! (x2)",
+"Keep it up, Rose City",
+"Don’t let up, No Pity",
+"Keep it up, Rose City",
+"Whoa-oh-oh-oh-ohh!"
+]
+},
 {
 "chantName": "Keep On Lovin' You",
 "chantLyrics": [
@@ -133,14 +140,11 @@
 ]
 },
 {
-"chantName": "Kashima",
+"chantName": "Mighty PTFC",
 "chantLyrics": [
-"Whoa-oh-oh, whoa-oh-oh",
-"Whoa-oh-oh-oh-ohh! (x2)",
-"Keep it up, Rose City",
-"Don’t let up, No Pity",
-"Keep it up, Rose City",
-"Whoa-oh-oh-oh-ohh!"
+"Allez Allez Alo (x2)",
+"We are the Rose City",
+"The mighty PTFC"
 ]
 },
 {
@@ -160,16 +164,6 @@
 ]
 },
 {
-"chantName": "Primary",
-"chantLyrics": [
-"We root for the Thorns *clap clap clap*",
-"We cheer for the Thorns *clap clap clap*",
-"Hey! *clapclap clap*",
-"Ho! *clapclap clap*",
-"GO THORNS!!"
-]
-},
-{
 "chantName": "Red Bandana",
 "chantLyrics": [
 "Around her head",
@@ -186,10 +180,12 @@
 "Win the league!",
 "We are the mighty Thorns",
 "And we’re going to win the league!",
-"",
-"",
-"",
-"Rose City 'til I Die",
+]
+},
+{
+"chantName": "Rose City 'til I Die",
+"chantLyrics": [
+"If the other team scores a goal...",
 "",
 "Rose City ‘til I die",
 "Rose City ‘til I die",
@@ -198,12 +194,66 @@
 ]
 },
 {
-"chantName": "Saints",
+"chantName": "Root for the Thorns",
 "chantLyrics": [
-"Oh when the Thorns! Go marching in!",
+"Repeat twice:",
+"We root for the Thorns *clap clap clap*",
+"We cheer for the Thorns *clap clap clap*",
+"",
+"Repeat four times:",
+"Hey! *clapclap clap*",
+"Ho! *clapclap clap*",
+"GO THORNS!!"
+]
+},
+{
+"chantName": "Rose City Whoa-oh!",
+"chantLyrics": [
+"Rose City Whoa-oh!", 
+"Rose City Whoa-oh!",
+"Root for the Thorns in black",
+"We’ve always got their back",
+"",
+"or",
+"",
+"Rose City Whoa-oh!", 
+"Rose City Whoa-oh!",
+"Root for the Thorns in red",
+"Until we’re gone and dead",
+"",
+"or",
+"","Rose City Whoa-oh!", 
+"Rose City Whoa-oh!",
+"Root for the Thorns in white",
+"They’re really dynamite"
+]
+},
+{
+"chantName": "Score a Goal",
+"chantLyrics": [
+"Ohhhhhh, Rose City, Soccer City", 
+"Score a goal",
+"Wherever you may go",
+"We will always follow you",
+"We are the Thorns supporters",
+"And forever we’ll be true"
+]
+},
+{
+"chantName": "Thorns Go Marching In",
+"chantLyrics": [
+"Oh when the Thorns!", 
+"Go marching in!",
 "Oh when the Thorns go marching in!",
 "How I want to be in Rose City",
 "When the Thorns go marching in!"
+]
+},
+  {
+"chantName": "You Can't Stop Us",
+"chantLyrics": [
+"First group: We are the Rose City!",
+" Second group: You can’t stop us!"
 ]
 },
 {
@@ -213,16 +263,6 @@
 "",
 "I wanna be in the Rose City",
 "I wanna be in the town I love"
-]
-},
-{
-"chantName": "Wherever You May Go",
-"chantLyrics": [
-"Ohhhhhh, Rose City, Soccer City, score a goal",
-"Wherever you may go",
-"We will always follow you",
-"We are the Thorns supporters",
-"And forever we’ll be true"
 ]
 },
 {
