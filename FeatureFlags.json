@@ -1,0 +1,9 @@
+{
+  "featureFlags": {
+    "ScheduleView": true,
+    "StadiumView": true,
+    "ChantsView": true,
+    "NewsView": true,
+    "DisclaimerView": true
+  }
+}
