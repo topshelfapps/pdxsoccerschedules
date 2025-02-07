@@ -2,7 +2,7 @@
   "featureFlags": {
     "ScheduleView": true,
     "StadiumView": false,
-    "ChantsView": false,
+    "ChantsView": true,
     "NewsView": false,
     "DisclaimerView": false
   }
