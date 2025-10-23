@@ -37,6 +37,6 @@
 {"id": "12533", "day": "Saturday","date": "10/04/2025","location": "@","opponent": "Seattle","time": "7:30 PM","tvStations": ["Apple TV"],"score": "L 0-1"},
 {"id": "12534", "day": "Saturday","date": "10/18/2025","location": "vs","opponent": "San Diego","time": "6:00 PM","tvStations": ["Apple TV"],"score": "L 0-4"},
 {"id": "12538", "day": "Wednesday","date": "10/22/2025","location": "vs","opponent": "Real Salt Lake","time": "7:30 PM","tvStations": ["Apple TV"],"score": "W 3-1"},
-{"id": "12539", "day": "Saturday","date": "11/01/2025","location": "@","opponent": "San Diego","time": "6:30 PM","tvStations": ["Apple TV"],"score": ""},
-{"id": "12540", "day": "Sunday","date": "11/09/2025","location": "vs","opponent": "San Diego","time": "6:30 PM","tvStations": ["Apple TV"],"score": ""}
+{"id": "12539", "day": "Sunday","date": "10/26/2025","location": "@","opponent": "San Diego","time": "6:30 PM","tvStations": ["Apple TV"],"score": ""},
+{"id": "12540", "day": "Saturday","date": "11/01/2025","location": "vs","opponent": "San Diego","time": "6:30 PM","tvStations": ["Apple TV"],"score": ""}
 ]
