@@ -1,4 +1,6 @@
-[
+{
+"Year": "2026",
+"Matches": [
 {"id": "12601", "year": "2027", "day": "Saturday", "date": "02/21/2026", "location": "vs", "opponent": "Columbus Crew", "time": "7:30 PM", "tvStations": ["Apple TV"]},
 {"id": "12602", "year": "2026", "day": "Saturday", "date": "02/28/2026", "location": "@", "opponent": "Colorado Rapids", "time": "1:30 PM", "tvStations": ["Apple TV"]},
 {"id": "12603", "year": "2026", "day": "Saturday", "date": "03/07/2026", "location": "vs", "opponent": "Vancouver Whitecaps FC", "time": "7:30 PM", "tvStations": ["Apple TV"]},
@@ -34,3 +36,4 @@
 {"id": "12633", "year": "2026", "day": "Sunday", "date": "11/01/2026", "location": "vs", "opponent": "Houston Dynamo FC", "time": "6:00 PM", "tvStations": ["FS1, Apple TV"]},
 {"id": "12634", "year": "2026", "day": "Saturday", "date": "11/07/2026", "location": "@", "opponent": "Austin FC", "time": "4:00 PM", "tvStations": ["Apple TV"]}
 ]
+}
