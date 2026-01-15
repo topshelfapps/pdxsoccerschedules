@@ -29,7 +29,7 @@
 {"id": "22526","day": "Sunday","date": "11/02/2025","location": "vs","opponent": "Houston","time": "02:00 PM","tvStations": ["NWSL+"],"score": "W 2-0"},
 {"id": "22529","day": "Sunday","date": "11/09/2025","location": "vs","opponent": "San Diego","time": "12:00 PM","tvStations": ["ABC"],"score": "W 1-0"},
 {"id": "22530","day": "Saturday","date": "11/15/2025","location": "@","opponent": "Washington","time": "9:00 AM","tvStations": ["CBS"],"score": "L 0-2"},
-{"id": "22601", "day": "Friday", "date": "03/13/2026", "location": "@", "opponent": "Washington", "time": "5:00 PM", "tvStations": ["Prime]", "score": ""},
+{"id": "22601", "day": "Friday", "date": "03/13/2026", "location": "@", "opponent": "Washington", "time": "5:00 PM", "tvStations": ["Prime]", "score": " "},
 {"id": "22602", "day": "Friday", "date": "03/20/2026", "location": "vs", "opponent": "Seattle", "time": "7:00 PM", "tvStations": ["Prime]", "score": ""},
 {"id": "22603", "day": "Wednesday", "date": "03/25/2026", "location": "@", "opponent": "San Diego", "time": "7:30 PM", "tvStations": ["CBS SN]", "score": ""},
 {"id": "22604", "day": "Saturday", "date": "03/28/2026", "location": "vs", "opponent": "Kansas City", "time": "1:00 PM", "tvStations": ["CBS]", "score": ""},
