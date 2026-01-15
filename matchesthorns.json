@@ -31,7 +31,7 @@
 {"id": "22530","day": "Saturday","date": "11/15/2025","location": "@","opponent": "Washington","time": "9:00 AM","tvStations": ["CBS"],"score": "L 0-2"},
 {"id": "22601", "day": "Friday", "date": "03/13/2026", "location": "@", "opponent": "Washington", "time": "5:00 PM", "tvStations": ["Prime"], "score": ""},
 {"id": "22602", "day": "Friday", "date": "03/20/2026", "location": "vs", "opponent": "Seattle", "time": "7:00 PM", "tvStations": ["Prime"], "score": ""},
-{"id": "22603", "day": "Wednesday", "date": "03/25/2026", "location": "@", "opponent": "San Diego", "time": "7:30 PM", "tvStations": ["CBS SN"], "score": ""},
+{"id": "22603", "day": "Wednesday", "date": "03/25/2026", "location": "@", "opponent": "San Diego", "time": "7:00 PM", "tvStations": ["CBS SN"], "score": ""},
 {"id": "22604", "day": "Saturday", "date": "03/28/2026", "location": "vs", "opponent": "Kansas City", "time": "1:00 PM", "tvStations": ["CBS"], "score": ""},
 {"id": "22605", "day": "Saturday", "date": "04/04/2026", "location": "@", "opponent": "North Carolina", "time": "3:30 PM", "tvStations": ["ION"], "score": ""},
 {"id": "22606", "day": "Sunday", "date": "04/26/2026", "location": "@", "opponent": "Los Angeles", "time": "3:00 PM", "tvStations": ["ESPN2"], "score": ""},
