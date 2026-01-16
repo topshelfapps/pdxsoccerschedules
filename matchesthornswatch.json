@@ -1,4 +1,6 @@
-[
+{
+"Year": "2026",
+"Matches": [
 {"id": "22601", "day": "Friday", "date": "03/13/2026", "location": "@", "opponent": "Washington", "time": "5:00 PM", "tvStations": ["Prime"], "score": ""},
 {"id": "22602", "day": "Friday", "date": "03/20/2026", "location": "vs", "opponent": "Seattle", "time": "7:00 PM", "tvStations": ["Prime"], "score": ""},
 {"id": "22603", "day": "Wednesday", "date": "03/25/2026", "location": "@", "opponent": "San Diego", "time": "7:00 PM", "tvStations": ["CBS SN"], "score": ""},
@@ -30,3 +32,5 @@
 {"id": "22629", "day": "Friday", "date": "10/23/2026", "location": "vs", "opponent": "North Carolina", "time": "7:00 PM", "tvStations": ["Prime"], "score": ""},
 {"id": "22630", "day": "Sunday", "date": "11/01/2026", "location": "@", "opponent": "Houston", "time": "2:00 PM", "tvStations": ["TBD"], "score": ""}
 ]
+}
+
