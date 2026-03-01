@@ -41,7 +41,7 @@
 {"id": "12540", "day": "Saturday","date": "11/01/2025","location": "vs","opponent": "San Diego","time": "6:30 PM","tvStations": ["Apple TV"],"score": "W 2-2"},
 {"id": "12541", "day": "Sunday","date": "11/09/2025","location": "@","opponent": "San Diego","time": "6:00 PM","tvStations": ["Apple TV"],"score": "L 0-4"},
 {"id": "12601", "day": "Saturday", "date": "02/21/2026", "location": "vs", "opponent": "Columbus Crew", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": "W 3-2"},
-{"id": "12602", "day": "Saturday", "date": "02/28/2026", "location": "@", "opponent": "Colorado Rapids", "time": "1:30 PM", "tvStations": ["Apple TV"]},
+{"id": "12602", "day": "Saturday", "date": "02/28/2026", "location": "@", "opponent": "Colorado Rapids", "time": "1:30 PM", "tvStations": ["Apple TV"],"score": "L 0-2"},
 {"id": "12603", "day": "Saturday", "date": "03/07/2026", "location": "vs", "opponent": "Vancouver Whitecaps FC", "time": "7:30 PM", "tvStations": ["Apple TV"]},
 {"id": "12604", "day": "Saturday", "date": "03/14/2026", "location": "@", "opponent": "Houston Dynamo FC", "time": "5:30 PM", "tvStations": ["Apple TV"]},
 {"id": "12605", "day": "Sunday", "date": "03/22/2026", "location": "vs", "opponent": "LA Galaxy", "time": "1:30 PM", "tvStations": ["FOX, Apple TV"]},
