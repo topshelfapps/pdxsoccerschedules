@@ -33,7 +33,7 @@
 {"id": "22602", "day": "Friday", "date": "03/20/2026", "location": "vs", "opponent": "Seattle", "time": "7:00 PM", "tvStations": ["Prime"], "score": "W 2-0"},
 {"id": "22603", "day": "Wednesday", "date": "03/25/2026", "location": "@", "opponent": "San Diego", "time": "7:00 PM", "tvStations": ["CBS SN"], "score": "L 1-3"},
 {"id": "22604", "day": "Saturday", "date": "03/28/2026", "location": "vs", "opponent": "Kansas City", "time": "1:00 PM", "tvStations": ["CBS"], "score": "W 2-0"},
-{"id": "22605", "day": "Saturday", "date": "04/04/2026", "location": "@", "opponent": "North Carolina", "time": "3:30 PM", "tvStations": ["ION"], "score": ""},
+{"id": "22605", "day": "Saturday", "date": "04/04/2026", "location": "@", "opponent": "North Carolina", "time": "3:30 PM", "tvStations": ["ION"], "score": "D 2-2"},
 {"id": "22606", "day": "Sunday", "date": "04/26/2026", "location": "@", "opponent": "Los Angeles", "time": "3:00 PM", "tvStations": ["ESPN2"], "score": ""},
 {"id": "22607", "day": "Wednesday", "date": "04/29/2026", "location": "vs", "opponent": "San Diego", "time": "7:00 PM", "tvStations": ["CBS SN"], "score": ""},
 {"id": "22608", "day": "Sunday", "date": "05/03/2026", "location": "@", "opponent": "Chicago", "time": "10:00 AM", "tvStations": ["ESPN2"], "score": ""},
