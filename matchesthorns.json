@@ -40,7 +40,7 @@
 {"id": "22609", "day": "Friday", "date": "05/08/2026", "location": "@", "opponent": "Louisville", "time": "3:30 PM", "tvStations": ["NSWL+"], "score": "L 1-3"},
 {"id": "22610", "day": "Sunday", "date": "05/17/2026", "location": "vs", "opponent": "Los Angeles", "time": "3:00 PM", "tvStations": ["ESPN2"], "score": "D 0-0"},
 {"id": "22611", "day": "Wednesday", "date": "05/20/2026", "location": "vs", "opponent": "Bay Area", "time": "7:00 PM", "tvStations": ["VICTORY+"], "score": "W 2-0"},
-{"id": "22612", "day": "Sunday", "date": "05/24/2026", "location": "@", "opponent": "Kansas City", "time": "10:00 AM", "tvStations": ["CBS"], "score": ""},
+{"id": "22612", "day": "Sunday", "date": "05/24/2026", "location": "@", "opponent": "Kansas City", "time": "10:00 AM", "tvStations": ["CBS"], "score": "L 1-3"},
 {"id": "22613", "day": "Saturday", "date": "05/30/2026", "location": "vs", "opponent": "Utah", "time": "1:00 PM", "tvStations": ["ION"], "score": ""},
 {"id": "22614", "day": "Sunday", "date": "07/05/2026", "location": "vs", "opponent": "Louisville", "time": "4:00 PM", "tvStations": ["VICTORY+"], "score": ""},
 {"id": "22615", "day": "Sunday", "date": "07/12/2026", "location": "@", "opponent": "Seattle", "time": "1:00 PM", "tvStations": ["ESPN"], "score": ""},
