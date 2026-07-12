@@ -44,7 +44,7 @@
 {"id": "22613", "day": "Saturday", "date": "05/30/2026", "location": "vs", "opponent": "Utah", "time": "1:00 PM", "tvStations": ["ION"], "score": "D 2-2"},
 {"id": "22631", "day": "Sunday", "date": "06/28/2026", "location": "vs", "opponent": "San Diego", "time": "4:00 PM", "tvStations": ["N/A"], "score": "L 3-4"},
 {"id": "22614", "day": "Sunday", "date": "07/05/2026", "location": "vs", "opponent": "Louisville", "time": "4:00 PM", "tvStations": ["VICTORY+"], "score": "W 4-0"},
-{"id": "22615", "day": "Sunday", "date": "07/12/2026", "location": "@", "opponent": "Seattle", "time": "1:00 PM", "tvStations": ["ESPN"], "score": ""},
+{"id": "22615", "day": "Sunday", "date": "07/12/2026", "location": "@", "opponent": "Seattle", "time": "1:00 PM", "tvStations": ["ESPN"], "score": "L 0-2"},
 {"id": "22616", "day": "Saturday", "date": "07/18/2026", "location": "@", "opponent": "Denver", "time": "11:00 AM", "tvStations": ["CBS"], "score": ""},
 {"id": "22617", "day": "Friday", "date": "07/24/2026", "location": "vs", "opponent": "NJ/NY", "time": "7:00 PM", "tvStations": ["Prime"], "score": ""},
 {"id": "22618", "day": "Sunday", "date": "08/02/2026", "location": "@", "opponent": "Utah", "time": "4:00 PM", "tvStations": ["VICTORY+"], "score": ""},
