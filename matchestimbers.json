@@ -55,7 +55,7 @@
 {"id": "12613", "day": "Sunday", "date": "05/17/2026", "location": "@", "opponent": "Inter Miami FC", "time": "3:00 PM", "tvStations": ["Apple TV"],"score": "L 0-2"},
 {"id": "12614", "day": "Saturday", "date": "05/23/2026", "location": "vs", "opponent": "San Jose Earthquakes", "time": "6:30 PM", "tvStations": ["Apple TV"],"score": "L 1-3"},
 {"id": "12615", "day": "Thursday", "date": "07/16/2026", "location": "@", "opponent": "Seattle Sounders FC", "time": "7:30 PM", "tvStations": ["FS1, Apple TV"],"score": "W 5-1"},
-{"id": "12616", "day": "Wednesday", "date": "07/22/2026", "location": "vs", "opponent": "FC Dallas", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": ""},
+{"id": "12616", "day": "Wednesday", "date": "07/22/2026", "location": "vs", "opponent": "FC Dallas", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": "D 1-1"},
 {"id": "12617", "day": "Saturday", "date": "07/25/2026", "location": "vs", "opponent": "Real Salt Lake", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": ""},
 {"id": "12618", "day": "Saturday", "date": "08/01/2026", "location": "vs", "opponent": "Seattle Sounders FC", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": ""},
 {"id": "12619", "day": "Sunday", "date": "08/16/2026", "location": "@", "opponent": "Chicago Fire FC", "time": "3:30 PM", "tvStations": ["Apple TV"],"score": ""},
