@@ -62,7 +62,7 @@
 {"id": "12636", "day": "Sunday", "date": "08/09/2026", "location": "vs", "opponent": "Club America", "time": "7:15 PM", "tvStations": ["FS1, Apple TV, Univ"],"score": "L 1-3"},
 {"id": "12637", "day": "Thursday", "date": "08/13/2026", "location": "vs", "opponent": "Tijuana", "time": "7:30 PM", "tvStations": ["FS1, Apple TV, Univ"],"score": "W 3-1"},
 {"id": "12619", "day": "Sunday", "date": "08/16/2026", "location": "@", "opponent": "Chicago Fire FC", "time": "3:00 PM", "tvStations": ["Apple TV"],"score": "L 1-2"},
-{"id": "12620", "day": "Wednesday", "date": "08/19/2026", "location": "vs", "opponent": "San Diego FC", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": ""},
+{"id": "12620", "day": "Wednesday", "date": "08/19/2026", "location": "vs", "opponent": "San Diego FC", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": "W 3-1"},
 {"id": "12621", "day": "Saturday", "date": "08/22/2026", "location": "@", "opponent": "LAFC", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": ""},
 {"id": "12622", "day": "Saturday", "date": "08/29/2026", "location": "vs", "opponent": "Austin FC", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": ""},
 {"id": "12623", "day": "Saturday", "date": "09/05/2026", "location": "vs", "opponent": "Minnesota United FC", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": ""},
