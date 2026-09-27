@@ -55,7 +55,7 @@
 {"id": "22623", "day": "Sunday", "date": "09/06/2026", "location": "vs", "opponent": "Washington", "time": "1:00 PM", "tvStations": ["CBS"], "score": "L 1-2"},
 {"id": "22624", "day": "Sunday", "date": "09/13/2026", "location": "vs", "opponent": "Chicago", "time": "4:00 PM", "tvStations": ["NSWL+"], "score": "D 1-1"},
 {"id": "22625", "day": "Saturday", "date": "09/19/2026", "location": "@", "opponent": "Orlando", "time": "1:00 PM", "tvStations": ["ION"], "score": "W 4-1"},
-{"id": "22626", "day": "Saturday", "date": "09/26/2026", "location": "vs", "opponent": "Houston", "time": "5:45 PM", "tvStations": ["ION"], "score": ""},
+{"id": "22626", "day": "Saturday", "date": "09/26/2026", "location": "vs", "opponent": "Houston", "time": "5:45 PM", "tvStations": ["ION"], "score": "D 1-1"},
 {"id": "22627", "day": "Saturday", "date": "10/03/2026", "location": "vs", "opponent": "Boston", "time": "5:45 PM", "tvStations": ["ION"], "score": ""},
 {"id": "22628", "day": "Sunday", "date": "10/18/2026", "location": "@", "opponent": "Bay Area", "time": "2:00 PM", "tvStations": ["ESPN"], "score": ""},
 {"id": "22629", "day": "Friday", "date": "10/23/2026", "location": "vs", "opponent": "North Carolina", "time": "7:00 PM", "tvStations": ["Prime"], "score": ""},
