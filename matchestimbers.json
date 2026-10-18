@@ -72,7 +72,7 @@
 {"id": "12627", "day": "Saturday", "date": "09/26/2026", "location": "@", "opponent": "San Jose Earthquakes", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": "L 1-3"},
 {"id": "12628", "day": "Saturday", "date": "10/10/2026", "location": "@", "opponent": "Sporting Kansas City", "time": "5:30 PM", "tvStations": ["Apple TV"],"score": "D 3-3"},
 {"id": "12629", "day": "Wednesday", "date": "10/14/2026", "location": "@", "opponent": "LA Galaxy", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": "L 0-2"},
-{"id": "12630", "day": "Saturday", "date": "10/17/2026", "location": "vs", "opponent": "Colorado Rapids", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": ""},
+{"id": "12630", "day": "Saturday", "date": "10/17/2026", "location": "vs", "opponent": "Colorado Rapids", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": "D 0-0"},
 {"id": "12631", "day": "Saturday", "date": "10/24/2026", "location": "vs", "opponent": "Charlotte FC", "time": "7:30 PM", "tvStations": ["Apple TV"],"score": ""},
 {"id": "12632", "day": "Wednesday", "date": "10/28/2026", "location": "@", "opponent": "St Louis City SC", "time": "5:30 PM", "tvStations": ["Apple TV"],"score": ""},
 {"id": "12633", "day": "Sunday", "date": "11/01/2026", "location": "vs", "opponent": "Houston Dynamo FC", "time": "6:00 PM", "tvStations": ["FS1, Apple TV"],"score": ""},
