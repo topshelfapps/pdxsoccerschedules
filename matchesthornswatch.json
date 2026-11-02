@@ -30,7 +30,8 @@
 {"id": "22627", "day": "Saturday", "date": "10/03/2026", "location": "vs", "opponent": "Boston", "time": "5:45 PM", "tvStations": ["ION"]},
 {"id": "22628", "day": "Sunday", "date": "10/18/2026", "location": "@", "opponent": "Bay Area", "time": "2:00 PM", "tvStations": ["ESPN"]},
 {"id": "22629", "day": "Friday", "date": "10/23/2026", "location": "vs", "opponent": "North Carolina", "time": "7:00 PM", "tvStations": ["Prime"]},
-{"id": "22630", "day": "Sunday", "date": "11/01/2026", "location": "@", "opponent": "Houston", "time": "2:00 PM", "tvStations": ["TBD"]}
+{"id": "22630", "day": "Sunday", "date": "11/01/2026", "location": "@", "opponent": "Houston", "time": "2:00 PM", "tvStations": ["TBD"]},
+{"id": "22631", "day": "Sunday", "date": "11/08/2026", "location": "@", "opponent": "Washington", "time": "12:00 PM", "tvStations": ["ABC"]}
 ]
 }
 
